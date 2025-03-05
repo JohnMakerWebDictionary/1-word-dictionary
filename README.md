@@ -1,0 +1,2 @@
+# 1-word-dictionary
+A dictionary for the word superultramonstrosesquipelingerdalingerprosesultramicroscopicsimpleicedanglingmonstroses.
